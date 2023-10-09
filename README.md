@@ -49,13 +49,13 @@ Make sure you have the following software/tools installed:
   npm start
   ```
 
-### EndPoint
+# EndPoint
 
 ## User Authentication and Registration
 
 Endpoint: `https://localhost:3000/api/v1/login`
 
-# Method: # POST
+## Method:  POST
 
 ## Parameters:
 
@@ -65,7 +65,7 @@ Endpoint: `https://localhost:3000/api/v1/login`
 
 Endpoint: `https://localhost:3000/api/v1/register`
 
-# Method: # POST
+# Method:  POST
 
 ## Parameters:
 
