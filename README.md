@@ -89,7 +89,6 @@ Endpoint: `https://localhost:3000/api/v1/register`
 
 GET (Get All Posts)
 POST (Create a New Post)
-## Endpoint: https://localhost:3000/api/v1/post/:id
 
 ## Methods:
 
@@ -97,4 +96,6 @@ GET (Get a Specific Post)
 PUT (Update a Specific Post)
 DELETE (Delete a Specific Post)
 
+## License
 
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
