@@ -6,7 +6,6 @@
 
 ## Table of Contents
 
-- [About](#about)
 - [Prerequisites](#prerequisites)
 
 - [Endpoints](#endpoints)
