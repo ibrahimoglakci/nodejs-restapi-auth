@@ -55,7 +55,7 @@ Make sure you have the following software/tools installed:
 
 Endpoint: `https://localhost:3000/api/v1/login`
 
-## Method:  POST
+ Method:  POST
 
 ## Parameters:
 
@@ -65,7 +65,7 @@ Endpoint: `https://localhost:3000/api/v1/login`
 
 Endpoint: `https://localhost:3000/api/v1/register`
 
-## Method:  POST
+ Method:  POST
 
 ## Parameters:
 
@@ -89,4 +89,5 @@ POST (Create a New Post)
 GET (Get a Specific Post)
 PUT (Update a Specific Post)
 DELETE (Delete a Specific Post)
+
 
