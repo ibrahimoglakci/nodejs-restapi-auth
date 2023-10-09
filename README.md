@@ -65,7 +65,7 @@ Endpoint: `https://localhost:3000/api/v1/login`
 
 Endpoint: `https://localhost:3000/api/v1/register`
 
-# Method:  POST
+## Method:  POST
 
 ## Parameters:
 
@@ -80,13 +80,13 @@ Endpoint: `https://localhost:3000/api/v1/post/{id}`
 
 ## Methods:
 
-# GET (Get All Posts)
-# POST (Create a New Post)
-# Endpoint: https://localhost:3000/api/v1/post/:id
+GET (Get All Posts)
+POST (Create a New Post)
+## Endpoint: https://localhost:3000/api/v1/post/:id
 
-# Methods:
+## Methods:
 
-# GET (Get a Specific Post)
-# PUT (Update a Specific Post)
-# DELETE (Delete a Specific Post)
+GET (Get a Specific Post)
+PUT (Update a Specific Post)
+DELETE (Delete a Specific Post)
 
