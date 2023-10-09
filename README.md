@@ -75,8 +75,15 @@ Endpoint: `https://localhost:3000/api/v1/register`
 
 ## Posts
 
-Endpoint: `https://localhost:3000/api/v1/posts`
-Endpoint: `https://localhost:3000/api/v1/post/{id}`
+- `GET /api/v1/posts`: Used to retrieve all posts.
+
+- `GET /api/v1/post/{id}`: Used to retrieve a specific post.
+
+- `POST /api/v1/posts`: Used to add a new post.
+
+- `PUT /api/v1/post/{id}`: Used to update an existing post.
+
+- `DELETE /api/v1/post/{id}`: Used to delete a specific post.
 
 ## Methods:
 
